@@ -122,6 +122,6 @@ pip install requests requests-oauthlib google-generativeai
 
 ## 🙌 Acknowledgments
 - [News API](https://newsapi.org/) for providing access to news articles 📰.
-- [Gemini Generative AI](https://www.example.com) for summarization capabilities 🧠.
+- [Gemini Generative AI](https://aistudio.google.com/app/apikey) for summarization capabilities 🧠.
 - [Twitter Developer Platform](https://developer.twitter.com/) for enabling tweet posting 🐦.
 
