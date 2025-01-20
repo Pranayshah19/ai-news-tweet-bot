@@ -122,10 +122,6 @@ pip install requests requests-oauthlib google-generativeai
 
 ---
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it for your purposes.
-
----
 
 ## Acknowledgments
 - [News API](https://newsapi.org/) for providing access to news articles.
